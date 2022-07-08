@@ -1,0 +1,22 @@
+{
+	"products": [
+		{
+			"productId": "1",
+			"content": "Theme Park Tickets",
+			"experienceDetails": "Enjoy the magical theme park for a full day.",
+			"inventory": 8366	
+		},
+		{
+			"productId": "2",
+			"content": "Concert Tickets",
+			"experienceDetails": "Relive the magic of your favorite movies at the Fairy Magic concert.",
+			"inventory": 248
+		},
+		{
+			"productId": "3",
+			"content": "Raffle Tickets",
+			"experienceDetails": "Earn a chance to win 1 year pass to the theme park!.",
+			"inventory": 1
+		}
+	]		
+}

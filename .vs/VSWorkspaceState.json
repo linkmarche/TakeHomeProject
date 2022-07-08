@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.mvn",
+    "\\.mvn\\wrapper",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\TakeHome",
+    "\\src\\main\\java\\TakeHome\\Project",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\java\\TakeHome\\Project\\ProjectApplication.java",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "POST",
+        "urlPattern":"/book/([0-9]*)"		
+    },
+    "response": {
+        "status": 202,
+        "body" : "{ \"productId\": \"{{ request.path.[1] }}\",\"quantity\": 10 }",
+        "headers" : {
+            "Content-Type" : "application/json"
+        }
+    }
+}
